@@ -1,6 +1,7 @@
 def printOne():
     print(1)
 
+# Yandexlyceum
 def my_superfunction():
     print('What an awesome print!')
 
