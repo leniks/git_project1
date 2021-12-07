@@ -1,3 +1,6 @@
+def printOne():
+    print(1)
+
 def my_superfunction():
     print('What an awesome print!')
 
@@ -7,6 +10,7 @@ def main():
     print('And I change it every day')
     print('Again')
     print('UFO came and added this line')
+    printOne()
     my_superfunction()
 
 
